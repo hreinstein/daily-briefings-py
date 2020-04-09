@@ -4,3 +4,6 @@ python-dotenv
 requests
 sendgrid==6.0.5
 flask
+
+#heroku needs to run web app
+gunicorn 
